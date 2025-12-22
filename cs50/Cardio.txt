@@ -1,4 +1,0 @@
-Exercise type: swim | Length: 30 min | Scale: 7
-Exercise type: Run | Length: 45 minutes | Scale: 7
-Exercise type: run | Length: 50 | Scale: 6
-Date: 12/19 Exercise type: bike | Length: 50 | Scale: 9
