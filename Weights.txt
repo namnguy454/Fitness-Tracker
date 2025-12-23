@@ -15,7 +15,7 @@ Exercise: Pullups | Sets: 3 | Reps: 5 | Weight: bodyweight
 Date: C:\Users\baova\AppData\Local\Python\pythoncore-3.14-64\python.exe "c:/Users/baova/cs50/Fitness tracker.py"
 Exercise: Abduction machine | Sets: 3 | Reps: 8 | Weight: 175
 
-Exercise: Shoulder fuck | Sets: 3 | Reps: 8 | Weight: 205
+Exercise: Shoulder | Sets: 3 | Reps: 8 | Weight: 205
 
 Exercise: Shoulder press 42.5 | Sets: 3 | Reps: 8 | Weight: 42.5
 
